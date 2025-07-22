@@ -44,7 +44,8 @@ Four bar charts were used to compare the models:
 - 🔁 Recall
 - 🧮 F1 Score
 
-> These can be found in the file: `network_classification_userapp.pdf`
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d3f0cfe5-fd4a-4d40-bd1c-398bd1f017c8" />
+
 
 ---
 
